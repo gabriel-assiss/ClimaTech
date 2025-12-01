@@ -74,7 +74,7 @@ units=metric → Celsius
 
 🧑‍💻 Autor
 
-Gabriel Assis – Desenvolvedor Front-End, construindo projetos para portfólio e estudo.
+Gabriel Assis – Desenvolvedor FullStack(em Formação), construindo projetos para portfólio e estudo.
 
 📜 Licença
 
