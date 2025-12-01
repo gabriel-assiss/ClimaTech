@@ -37,12 +37,11 @@ Interface simples e responsiva
 
 Clone o repositório:
 
-git clone https://github.com/SEUUSUARIO/NOME-DO-REPO.git
-
+git clone https://github.com/gabriel-assiss/climatech.git
 
 Entre na pasta:
 
-cd NOME-DO-REPO
+cd climatech
 
 
 Instale dependências:
